@@ -1,1 +1,1 @@
-# mySns
+# sns

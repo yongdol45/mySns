@@ -198,6 +198,10 @@ fabric.properties
 hs_err_pid*
 replay_pid*
 
+### front-end ###
+front-end
+
+
 ### Gradle ###
 .gradle
 **/build/
